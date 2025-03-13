@@ -1,0 +1,13 @@
+/*
+Theme Name:     3rdAssignment
+Description:    
+Author:         adriap
+Template:       emart-shop
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+#masthead{
+background-color: crimson;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

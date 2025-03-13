@@ -1,1 +1,6 @@
 [12-Mar-2025 23:14:39 UTC] PHP Warning:  Undefined array key "host" in /workspaces/Assignment-3/.wordpress/wp-includes/pluggable.php on line 1625
+[13-Mar-2025 00:16:29 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment-3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[13-Mar-2025 00:22:12 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment-3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[13-Mar-2025 00:22:17 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment-3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[13-Mar-2025 00:22:27 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment-3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[13-Mar-2025 00:22:35 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment-3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
